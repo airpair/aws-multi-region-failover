@@ -77,7 +77,7 @@ In this Article, I am giving NVirginiaHealthCheck as primary.
 ![Image 6](https://s3-us-west-2.amazonaws.com/ishant/demoRegionFailover/6.JPG)
 
 ### Step 9
-Test the website. (test.ishantkumar.in) . It will show you the webpage associated with Primary Health Check . In our case web page hosted in N.Virginia Region.
+Test the website. (test.ishantkumar.in) . It will show you the webpage associated with Primary Health Check. In our case web page hosted in N.Virginia Region.
 
 ![Image 7](https://s3-us-west-2.amazonaws.com/ishant/demoRegionFailover/7.JPG)
 
