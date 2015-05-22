@@ -92,7 +92,7 @@ Still we are able to see the website but this time we are getting web page hoste
 
 ![Image 9](https://s3-us-west-2.amazonaws.com/ishant/demoRegionFailover/9.JPG)
 
-I believe you found this article useful. I will continue to write more posts on AWS and DevOps. If you want any help or article need to be written just let me know.
+I believe you found this article useful. If you want any help or want to improve article, just let me know.
 <hr>
 <hr>
 ###Thanks
